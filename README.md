@@ -1,4 +1,4 @@
-# untitled1
+# paginations-vue
 
 ## Project setup
 ```
